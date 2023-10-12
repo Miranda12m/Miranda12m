@@ -79,6 +79,32 @@
 
 <p align="left">“And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about.”<br><br>― Haruki Murakami, Kafka on the Shore</p>
 
-###
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&duration=2500&pause=20000&color=E400F7&background=FF000000&vCenter=true&random=false&width=435&lines=About+Me" alt="Typing SVG" /></a>
+
+<h4 style="color: #E400F7FF">- I'm 23 years old Software Engineering.</h4>
+
+<img height="" width="" alt="GIF" align="right" src="https://i.giphy.com/media/YHYmMLkOmqoo/giphy.webp">
+
+<h4 style="color: #E400F7FF">- Experience :</h4>
+<ul>
+  <li style="color: #E400F7FF">🟣 Product Analyst</li>
+  <li style="color: #E400F7FF">🟣 IT Coordinator</li>
+  <li style="color: #E400F7FF">🟣 Frontend Developer</li>
+    <li style="color: #E400F7FF">🟣 IT Support lvl 1 - 2</li>
+</ul>
+
+<h4 style="color: #E400F7FF">- Hobbies :</h4>
+<ul>
+  <li style="color: #E400F7FF">🟣 Skateboarding</li>
+  <li style="color: #E400F7FF">🟣 Gaming</li>
+  <li style="color: #E400F7FF">🟣 Books (Novels)</li>
+  <li style="color: #E400F7FF">🟣 Music</li>
+</ul>
+<br>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22vx6nj7tkezhud2ogxfycpna)
