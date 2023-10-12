@@ -71,7 +71,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Miranda12m/Miranda12m/output/snake.svg" alt="Snake animation" />
+<p align="left">“And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about.”<br><br>― Haruki Murakami, Kafka on the Shore</p>
 
 ###
 
