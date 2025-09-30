@@ -52,10 +52,8 @@
 
 <h4 style="color: #E400F7FF">- Experience :</h4>
 <ul>
-  <li style="color: #E400F7FF">🟣 IT Specialist</li>
-  <li style="color: #E400F7FF">🟣 IT Coordinator</li>
-  <li style="color: #E400F7FF">🟣 Frontend Developer</li>
-    <li style="color: #E400F7FF">🟣 IT Support lvl 1 - 2</li>
+  <li style="color: #E400F7FF">🟣 Cloud Security Engineer (at some big corp)</li>
+  <li style="color: #E400F7FF">🟣 Software/Cloud Engineerr</li>
 </ul>
 
 <h4 style="color: #E400F7FF">- Hobbies :</h4>
