@@ -46,7 +46,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&duration=2500&pause=20000&color=E400F7&background=FF000000&vCenter=true&random=false&width=435&lines=About+Me" alt="Typing SVG" /></a>
 
-<h4 style="color: #E400F7FF">- I'm 23 years old Software Engineering.</h4>
+<h4 style="color: #E400F7FF"> Hallo </h4>
 
 <img height="" width="" alt="GIF" align="right" src="https://i.giphy.com/media/YHYmMLkOmqoo/giphy.webp">
 
