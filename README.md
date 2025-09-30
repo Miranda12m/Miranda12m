@@ -53,7 +53,7 @@
 <h4 style="color: #E400F7FF">- Experience :</h4>
 <ul>
   <li style="color: #E400F7FF">🟣 Cloud Security Engineer (at some big corp)</li>
-  <li style="color: #E400F7FF">🟣 Software/Cloud Engineerr</li>
+  <li style="color: #E400F7FF">🟣 Software/Cloud Engineer</li>
 </ul>
 
 <h4 style="color: #E400F7FF">- Hobbies :</h4>
